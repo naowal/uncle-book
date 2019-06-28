@@ -1,7 +1,5 @@
 # E-commerce with Django Framework
 
-![alt tag]()
-
 เจอกันที่ Uncle-engineer-book.com เร็วๆนี้
 
 ## Author

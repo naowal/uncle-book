@@ -1,15 +1,12 @@
-# Python E-commerce
+# E-commerce with Django Framework
 
-![alt tag](http://carlofontanos.com/wp-content/uploads/2017/03/python-ecommerce-using-django-watermarked.jpg)
+![alt tag]()
 
-A starter template madule for creating complex e-commerce web applications. Developed using Django v1.10.6 with best practices in mind.
+เจอกันที่ Uncle-engineer-book.com เร็วๆนี้
 
 ## Author
-### Carl Victor C. Fontanos
-+ Website: [carlofontanos.com](http://www.carlofontanos.com)
-+ Linkedin: [ph.linkedin.com/in/carlfontanos](http://ph.linkedin.com/in/carlfontanos)
-+ Facebook: [facebook.com/carlo.fontanos](http://facebook.com/carlo.fontanos)
-+ Twitter: [twitter.com/carlofontanos](http://twitter.com/carlofontanos)
-+ Google+: [plus.google.com/u/0/107219338853998242780/about](https://plus.google.com/u/0/107219338853998242780/about)
-+ GitHub: [github.com/carlo-fontanos](https://github.com/carlo-fontanos)
+### Naowal Siripatana
++ Linkedin: [https://www.linkedin.com/in/naowal-siripatana-b8b252ba/](https://www.linkedin.com/in/naowal-siripatana-b8b252ba/)
++ Facebook: [https://www.facebook.com/naowal](https://www.facebook.com/naowal)
++ GitHub: [github.com/naowal](https://github.com/naowal)
 

@@ -19,5 +19,5 @@ from django.contrib import admin
 urlpatterns = [
 	url('', include('ecommerce.urls')), # Include ecommerce app views. 
     url(r'^admin/', admin.site.urls),
-    url(r'^ecommerce/', include('ecommerce.urls')),
+    #url(r'^ecommerce/', include('ecommerce.urls')),
 ]

@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 pkg-resources==0.0.0
+=======
+Django==2.2
+Pillow==6.0.0
+pytz==2019.1
+sqlparse==0.3.0
+>>>>>>> 31eebdfe8914a55a8e9c9da72fa3ab13f6fe74c5
